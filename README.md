@@ -117,8 +117,8 @@ Dos errores propios quedaron documentados en el informe en lugar de disimularse,
 ```
 .
 ├── README.md
-├── informe-live-ir-4geeks.pdf     # Informe técnico final (Fase 3), 24 páginas
-└── capturas/                      # Evidencia visual, Fases 1 y 2 (Figuras 1 a 23)
+├── Informe_Live_IR_4geeks_final.pdf     # Informe técnico final (Fase 3), 24 páginas
+└── capturas/                            # Evidencia visual, Fases 1 y 2 (Figuras 1 a 23)
 ```
 
 El informe completo desarrolla la metodología, la reconstrucción cronológica minuto a minuto y el anexo curado de veintitrés capturas de evidencia.
